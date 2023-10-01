@@ -23,6 +23,7 @@ To get started with this project, follow the instructions below.
 
 1. Clone this repository.
 2. Install frontend and backend dependencies.
-3. Run the development servers.
+3. Run the development server.
+4. Run uvicorn server on the logn file.
 
 
